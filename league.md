@@ -49,11 +49,11 @@ but as long as u get in rythym u should be good
 
 here is an example of manually autoing once, moving, autoing again, etc.
 i autoed 5 times, but only 4 attacks came out because the second one cancelled.
-<video src='./manual.webm' controls>
+<video src='./manual.webm' controls></video>
 
 here is an example of just autoing once and letting champ automatically moving+attacking.
 note how champ sometimes awkwardly just chases after the target bc is not very efficient
-<video src='./auto.webm' controls>
+<video src='./auto.webm' controls></video>
 
 ## abilities
 there are too many abilities to explain tbh just read tooltips and play around i still dont even know how a ton work
@@ -69,7 +69,7 @@ here is demonstration using all concepts so far!! here are notes about minions t
 6. last-hit with auto-attack
 7. last-hit with auto-attack. hit level 2 with its exp!! (you can see exp progress as the purple circle bar thing next to ur champs portrait on bottom)
 
-<video src='./cs.webm' controls>
+<video src='./cs.webm' controls></video>
 
 # objectives and stuff
 
