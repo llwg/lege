@@ -68,6 +68,7 @@ here is demonstration using all concepts so far!! here are notes about minions t
 5. failed to last-hit (autoed too early) (note: still got exp)
 6. last-hit with auto-attack
 7. last-hit with auto-attack. hit level 2 with its exp!! (you can see exp progress as the purple circle bar thing next to ur champs portrait on bottom)
+
 <video src='./cs.webm' controls>
 
 # objectives and stuff
