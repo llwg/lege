@@ -3,6 +3,9 @@ body { line-height: 1.6; width: 32em }
 video { max-width: 100% }
 </style>
 
+# disclaimer
+this is way i have learned the game is like. but i am bronze and not very good at the game. there also exist many other interpretations of game. also many diff ways to play game. the fun of game is u can play so many diff ways!
+
 # fundamentals
 
 ## objective of game
