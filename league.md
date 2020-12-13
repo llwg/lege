@@ -116,7 +116,7 @@ each base has 3 'inhibitors' which when broken make enemy base spawn 'super mini
 
 # teamwork, lanes
 
-unfortunately, it is very hard to win a game without any help.
+unfortunately, it is very hard to win a game without performing or receiving any help.
 
 ## roaming
 roaming is when person from one lane leaves and goes to diff lane to help that diff lane kill someone.
