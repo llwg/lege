@@ -1,12 +1,22 @@
 <style>
+html { display: flex; justify-content: center }
 body { line-height: 1.6; width: 32em }
 video { max-width: 100% }
 </style>
+
+# table of contents
+- [disclaimer](#disclaimer)
+- [fundamentals](#fundamentals)
+- [objectives and stuff](#objectives-and-stuff)
+- [random other stuff](#random-other-stuff)
+- [philosophy](#philosophy)
 
 # disclaimer
 this is way i have learned the game is like. but i am bronze and not very good at the game. there also exist many other interpretations of game. also many diff ways to play game. the fun of game is u can play so many diff ways!
 
 # fundamentals
+
+these are things that i think 95% of players would agree are important to game
 
 ## objective of game
 gather many money and exp to be strong to kill ppl so u can kill their buildings
@@ -61,6 +71,11 @@ note how champ sometimes awkwardly just chases after the target bc is not very e
 ## abilities
 there are too many abilities to explain tbh just read tooltips and play around i still dont even know how a ton work
 
+### AP (ability power) vs AD (attack damage)
+abilities usually either scale in damage with AP or AD (usually not both). you get more AP or AD from items.
+
+auto attacks scale in damage w/ AD.
+
 ## last-hitting demonstration
 here is demonstration using all concepts so far!! here are notes about minions that died:
 
@@ -77,7 +92,7 @@ here is demonstration using all concepts so far!! here are notes about minions t
 # objectives and stuff
 
 ## turrets
-turrets attack you if
+turrets attack you when you're in their range if
 
 1. there is nothing else to attack, or
 2. you hurt an enemy champ
@@ -94,6 +109,7 @@ vision in league is very powerful!!
 3. you can hide from ur enemy
 
 here are the vision trinkets in the game:
+
 1. yellow (ward) (default one)
 	- you can use it to place a 'ward' that is like a little light that lets you see in a bush or area for a while.
 	- your wards are (basically) hidden from enemies
@@ -165,7 +181,7 @@ besides 'alert ping', theres also 'retreat' and 'area is warded' ping which are 
 ## runes
 runes are like special stats/effects u can choose at the start of each game.
 
-theres rlly no other way to understand them except by reading the tooltips
+there r so many with weird effects so best way to find out is reading the tooltips
 
 ## summoner spells
 summoner spells are like special abilities u can choose at the start of each game. they have long cooldowns. read tooltips.
@@ -192,3 +208,55 @@ turrets can only attack one thing at a time, so a teamwork to kill an enemy cham
 3. leave turret
 
 i dont think its very common bc it requires too much teamwork but im like bronze and it still happens sometimes so ig is worth mentioning. is also worth mentioning the concept because a lot of ppl will just run into turret thinking they can solo kill and take turret aggro anyway so ig minus as well get free assist
+
+# philosophy
+im bronze
+
+## which champions should i try out first??
+there are currently 155 champs in league; which should you pick?? what would match my playstyle and idea of fun??
+
+thats a great question but tbh idk and especially you have unlock all of them its a pain to try new ones out
+
+on the bright side there is 'weekly rotation' where u can try random ones out for free, also rito games gives u a nice selection of champs in the start. also if u see someone playing a champ that looks fun u might want to try it!!
+
+## what do i learn??
+
+### last hitting
+i think the most important think to learn first is how to last hit well.
+
+last hit is basically your only stable income!! money!!! kills are actually kinda worthless in terms of your own gold and probably more useful for just taking the enemy out of the game for a while.
+
+if you are evenly matched with opponent but you can last hit better, you automatically win bc you get ur items faster!! first u click the minion, then u click the opponent.
+
+it seems very simple just click the minion bro!! but difficult. not only is it difficult because literally just timing it correctly is pain, but you also have to deal with literally the whole rest of the game also.
+
+hopefully ideally you are so good at last hitting itself that it just becomes habit and thus your brain is free and comfortable to focus on rest of game. i believe in you!!
+
+### map control
+
+one of the first things i felt about league is it takes 900 thousand hours to walk anywhere on the map.
+
+being in the right place at the right time is very slippery skill. where will enemies be? where should i be to accomplish what i want to do? these are great questions!!
+
+wave management, roaming, vision, and more? wow cool! what a fun game
+
+### not dying
+dying in league is very bad because when youre dead you have no map presence and cant last hit. also you give money to enemy team. if winning is like lying on ur back and wait for your enemy to make mistake, dying is the biggest mistake u could possibly make!! dying is even worse because of leagues bounty system. dying = bad!!!
+
+not dying is an art form. because if you are so afraid to die, you will let opponent take advantage of you, and you lose. but if you are so fearless, you will die and thus lose game. knowing your own limits and ur champs limits and enemys limits and enemys champs limits and whatever else limits is very big problem!
+
+### mechanical skill
+
+i read somewhere that league is not a fighting game, but that doesnt mean u cant play it like one!! there are many champions with cool flashy abilities and you can have fun pressing buttons to kill opponent in order to achieve satisfaction. there is even whole gamemode dedicated to this called aram
+
+### tradition/meta/whatever else
+many people play league and have formulated what they believe is the most effective way to play. this is very helpful especially when starting out because you form a concept of the game that will help you become an effective player!! for example there are [tierlists](https://u.gg/lol/tier-list) and [list of which items to build on which champs](https://u.gg/lol/champions/annie/build). league even built in this nice 'recommended items' menu which is nice.
+
+but what is problematic with this is that
+
+1. fundamentals are still more important
+	- platinum ranked AD yuumi top would probably steamroll any bronze player
+2. tradition is not always fun or the most effective for you!!
+	- blindly following the meta without knowing why it actually works often doesnt work bc u dont know why its supposed to be effective
+
+but that being said you do have to learn tradition to break tradition innit!!
