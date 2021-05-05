@@ -143,7 +143,7 @@ usually ppl will only go one lane over (e.g. mid->bot or top, top->mid, bot->mid
 top lane usually for ppl with a bunch of health. top laners usually good at getting towers and starting team fights
 
 ## mid
-mid lane usually for ppl with burst damage. usually good at ig killing people? getting picks so u can push lanes
+mid lane usually for ppl with burst damage. usually good at killing people
 
 ## adc/bot
 usually for ranged champs that build attack damage and auto attack ppl to death. usually good at killing people (sustained damage) to win team fights. also provides good damage for killing objectives
